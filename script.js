@@ -19,6 +19,7 @@ adv.remove()
 
 book2[4].before(book2[8])
 book2[3].after(book2[6])
+book2[10].before(book2[2])
 
 book5[4].after(book5[2])
 book5[3].before(book5[9])
